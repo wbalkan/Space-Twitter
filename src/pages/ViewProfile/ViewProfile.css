@@ -1,0 +1,51 @@
+.person {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-full {
+    border: 5px green solid;
+    border-radius: 2rem;
+    padding: 2rem;
+    width: 70vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10rem;
+
+}
+
+.zoomed-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 10rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+.infobox {
+    border-radius: 2rem;
+    background-color: azure;
+    padding: 1rem;
+    margin: 0.5rem;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.info {
+    border: 2px green solid;
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

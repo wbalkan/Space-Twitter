@@ -1,0 +1,47 @@
+.login-main {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+}
+
+.loginForm {
+  display: flex;
+  margin: 1rem;
+  flex-direction: column;
+  gap: 5rem;
+  border-radius: 1rem;
+  border: black 0.5rem solid;
+  padding: 3rem;
+  width: 25vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.textbox {
+  border-radius: 0.2rem;
+  height: 2rem;
+  width: 75%;
+}
+
+label {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 75%;
+  gap: 1rem;
+  border-radius: 0.5rem;
+  border: black 0.25rem solid;
+  padding: 1rem;
+  font-size: x-large;
+}
+
+.enter {
+  border-radius: 0.5rem;
+  border: black 0.25rem solid;
+  width: 50%;
+  height: 3rem;
+}

@@ -1,0 +1,21 @@
+.main {
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 100vw;
+    background-color: black;
+    height: 100vh;
+}
+
+.cover {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+
+.planet {
+    padding: 1rem;
+
+}

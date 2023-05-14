@@ -1,0 +1,51 @@
+.profile {
+  border: 5px green solid;
+  border-radius: 2rem;
+  padding: 2rem;
+  width: 70vw;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.pic {
+  width: 80px;
+  height: 80px;
+  border-radius: 10rem;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.infobox {
+  border-radius: 2rem;
+  background-color: azure;
+  padding: 1rem;
+  margin: 0.5rem;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.info {
+  border: 2px green solid;
+  border-radius: 1rem;
+  padding: 1rem;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-link {
+  border-radius: 1.5rem;
+  margin: 1rem;
+  padding: 1rem;
+  
+}
+

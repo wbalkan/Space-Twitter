@@ -1,0 +1,52 @@
+.posts {
+  color: black;
+  margin-top: 10rem;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.newpost {
+  border: 2px green solid;
+  background-color: rgb(164, 169, 169);
+  margin-bottom: 5rem;
+  border-radius: 3rem;
+  width: 70%;
+
+}
+
+.newpost:hover {
+  background-color: rgb(204, 210, 210);
+}
+
+.post-type{
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  background-color: inherit;
+}
+
+.post {
+  border: 2px green solid;
+  background-color: azure;
+  margin-bottom: 5rem;
+  padding: 3rem;
+  border-radius: 3rem;
+  width: 70%;
+}
+
+.username {
+  color: green;
+  font-weight: 1000;
+  margin-bottom: 1rem;
+}
