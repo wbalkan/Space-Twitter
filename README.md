@@ -13,5 +13,4 @@ To run the app locally, run npm start in the directory containing the git reposi
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Video Walkthrough
-[./Space-Twitter-Walkthrough.webm](video walkthrough download)
-
+<a id="raw-url" href="https://raw.githubusercontent.com/wbalkan/Space-Twitter/master/Space-Twitter-Walkthrough.webm">Video Walkthrough</a>
