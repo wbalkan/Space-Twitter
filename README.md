@@ -12,4 +12,6 @@ This is a frontend of a social media app known as Space Twitter, which has a few
 To run the app locally, run npm start in the directory containing the git repository.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+### Video Walkthrough
+[Space-Twitter-Walkthrough.webm](video walkthrough download)
 
