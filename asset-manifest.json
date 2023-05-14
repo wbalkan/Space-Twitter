@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Space-Twitter/static/css/main.17226ff6.css",
+    "main.js": "/Space-Twitter/static/js/main.337a5229.js",
+    "static/js/787.d7317416.chunk.js": "/Space-Twitter/static/js/787.d7317416.chunk.js",
+    "index.html": "/Space-Twitter/index.html",
+    "static/media/planet.svg": "/Space-Twitter/static/media/planet.2abf14a36807d95592d2620fa1a1e2b8.svg",
+    "main.17226ff6.css.map": "/Space-Twitter/static/css/main.17226ff6.css.map",
+    "main.337a5229.js.map": "/Space-Twitter/static/js/main.337a5229.js.map",
+    "787.d7317416.chunk.js.map": "/Space-Twitter/static/js/787.d7317416.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17226ff6.css",
+    "static/js/main.337a5229.js"
+  ]
+}
